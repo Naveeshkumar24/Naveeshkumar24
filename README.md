@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm YourName</h1>
-<h3 align="center">A passionate developer</h3>
+<h1 align="center">Hi 👋, I'm Naveesh Kumar</h1>
+<h3 align="center">A passionate Backend developer</h3>
 
 <!-- Dynamic SVG Background Header -->
 <p align="center">
@@ -8,17 +8,17 @@
 
 <!-- GitHub Stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Naveeshkumar24&show_icons=true&theme=tokyonight" alt="stats" />
 </p>
 
 <!-- Contribution Graph -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Naveeshkumar24&theme=tokyo-night" />
 </p>
 
 <!-- Trophy Section -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=your-username&theme=monokai" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Naveeshkumar24&theme=monokai" />
 </p>
 
 <!-- Snake animation -->
