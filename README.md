@@ -1,9 +1,14 @@
+<!-- Banner as "background" -->
+<p align="center">
+  <img src="https://github.com/Naveeshkumar24/Naveeshkumar24/blob/main/nsk.png?raw=true" alt="Banner" width="100%" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Naveesh Kumar</h1>
 <h3 align="center">A passionate Backend developer</h3>
 
-<!-- Dynamic SVG Background Header -->
+<!-- Typing Effect -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;I+love+coding+and+open+source" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;I+love+coding+and+open+source" alt="Typing SVG" />
 </p>
 
 <!-- GitHub Stats -->
