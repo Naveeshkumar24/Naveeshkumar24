@@ -5,7 +5,7 @@
       <div align="center">
         <h1 style="color: #00FF00; font-family: monospace;">Hi 👋, I'm Naveesh Kumar</h1>
         <h3 style="color: #f0f0f0; font-family: monospace;">🚀 A Passionate Backend Developer | DevOps Learner | Full-Stack Explorer</h3>
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub!;Java,+Python,+Go+Developer;Frontend+with+React+%26+Svelte;TypeScript+Fan+%7C+DevOps+In+Progress;Docker+%2B+Kubernetes+Learner;Open+Source+%E2%9D%A4%EF%B8%8F+Always+Learning!" alt="Typing SVG" />
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub!;Java,+Python,+Go+Developer;Frontend+with+React+%26+Svelte;MERN+Stack+Builder;TypeScript+Fan+%7C+DevOps+In+Progress;Docker+%2B+Kubernetes+Learner;Open+Source+%E2%9D%A4%EF%B8%8F+Always+Learning!" alt="Typing SVG" />
       </div>
     </td>
   </tr>
@@ -23,12 +23,23 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
 #### 🧩 Frameworks & Tools  
+<!-- MERN -->
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+
+<!-- Others -->
 ![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+<!-- Optional unified MERN badge -->
+<p>
+  <img src="https://img.shields.io/badge/MERN-Stack-000000?style=for-the-badge" alt="MERN Stack" />
+</p>
 
 ---
 
